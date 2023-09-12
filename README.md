@@ -23,6 +23,5 @@ Esta é uma aplicação web simples de calculadora que realiza operações aritm
 
 1. Clone este repositório para a sua máquina local:
 
-   ```bash
 https://github.com/GilmarGomes/Calculadora-Func-o-es-Orientadas---Objetos-com-Classes
 
